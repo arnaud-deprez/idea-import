@@ -1,0 +1,7 @@
+allprojects {
+    apply plugin: 'groovy'
+}
+
+/*rootProject.dependencies {
+    runtime project(':nconect.framework.base-gradle-plugin')
+}*/

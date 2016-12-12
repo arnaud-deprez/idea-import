@@ -1,0 +1,3 @@
+rootProject.name = 'idea-import-issue'
+include 'test-gradle-plugin'
+
